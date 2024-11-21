@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StudentFirestore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+251204f3de02ec773d3fe30f27d389ccbe4495cc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+29e3c3d1a2c7140bdb3b3fcb3f400a2c4edaa44c")]
 [assembly: System.Reflection.AssemblyProductAttribute("StudentFirestore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StudentFirestore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
