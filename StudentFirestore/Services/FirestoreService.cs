@@ -11,7 +11,7 @@ public class FirestoreService
 
     public FirestoreService()
     {
-        this.SetupFireStore();
+        this.SetupFireStore(); //ซันน่ารักที่สุดในโลกก
     }
     private async Task SetupFireStore()
     {
